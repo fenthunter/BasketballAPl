@@ -5,6 +5,7 @@
 //  Created by Hunter Korczykowski (student LM) on 1/7/25.
 //
 
+<<<<<<< HEAD
 import SwiftUI
 
 struct Constants {
@@ -17,3 +18,6 @@ extension Color {
     static let backgroundOrange = Color("background")
     static let textWhite = Color("text")
 }
+=======
+import Foundation
+>>>>>>> origin/main

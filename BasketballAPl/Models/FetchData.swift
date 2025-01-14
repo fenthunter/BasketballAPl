@@ -5,6 +5,7 @@
 //  Created by Esan Yi (student LM) on 1/2/25.
 //
 
+<<<<<<< HEAD
 import SwiftUI
 
 struct FetchData {
@@ -51,3 +52,6 @@ struct Response: Codable {
 extension Response: Identifiable {
     var id: String {name ?? " "}
 }
+=======
+import Foundation
+>>>>>>> origin/main
